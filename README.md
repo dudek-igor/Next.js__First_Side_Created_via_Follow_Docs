@@ -1,1 +1,4 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+## First Side Created via Follow Next.js Docs
+
+[Link_to_Side_in_Vercel](https://next-js-first-side.vercel.app/)
+[Next.js_Docs](https://nextjs.org/learn/basics/create-nextjs-app?utm_source=next-site&utm_medium=homepage-cta&utm_campaign=next-website)
